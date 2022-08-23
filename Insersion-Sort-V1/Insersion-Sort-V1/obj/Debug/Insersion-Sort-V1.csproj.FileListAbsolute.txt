@@ -1,0 +1,8 @@
+D:\kia prjc\tamrin\Insersion-Sort-V1\Insersion-Sort-V1\bin\Debug\Insersion-Sort-V1.exe.config
+D:\kia prjc\tamrin\Insersion-Sort-V1\Insersion-Sort-V1\bin\Debug\Insersion-Sort-V1.exe
+D:\kia prjc\tamrin\Insersion-Sort-V1\Insersion-Sort-V1\bin\Debug\Insersion-Sort-V1.pdb
+D:\kia prjc\tamrin\Insersion-Sort-V1\Insersion-Sort-V1\obj\Debug\Insersion-Sort-V1.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\Insersion-Sort-V1\Insersion-Sort-V1\obj\Debug\Insersion-Sort-V1.csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\Insersion-Sort-V1\Insersion-Sort-V1\obj\Debug\Insersion-Sort-V1.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\Insersion-Sort-V1\Insersion-Sort-V1\obj\Debug\Insersion-Sort-V1.exe
+D:\kia prjc\tamrin\Insersion-Sort-V1\Insersion-Sort-V1\obj\Debug\Insersion-Sort-V1.pdb
